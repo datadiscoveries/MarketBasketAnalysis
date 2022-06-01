@@ -1,4 +1,3 @@
-
 # Load libraries
 #install.packages("arules")
 #install.packages("arulesViz")
