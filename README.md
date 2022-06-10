@@ -1,7 +1,7 @@
 # Market Basket Analysis for Online Product Recommendations
 
 **Question:**<br>
-Can we find products that a shopper is likely to purchase, based on the items that they have added to their cart?<br>
+Which products should be recommended to which online shoppers, based on the items that they have added to their cart?<br>
 
 **Goals, Techniques, and Value:** The main goal of this analysis is to provide insights to support the creation of an effective product recommendation system. Personalizing recommendations according to shoppers' interests can help build customer engagement, create better rapport, and increase sales. This analysis applies the Apriori algorithm to purchase history data to estimate the probability that a product will be purchased by the shopper, given the items added to their cart.
 
