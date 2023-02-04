@@ -7,7 +7,7 @@ Which products are most likely to be purchased by an online shopper, given the i
 The goal of this analysis is to create an effective product recommendation system and make strategic recommendations to boost sales, based on insights gleaned from the analysis. Personalizing recommendations according to shoppers' interests can help build customer engagement, create better rapport with the shopper, and increase sales. The Apriori algorithm is applied to historic purchase data to estimate the probability that a product will be purchased by a shopper, given the items in their cart.
 
 **Terms:**<br>
-Association rule: An "if-then" statement representing the probability that a customer will purchase the item on the right-hand side (RHS) if they have added the items on the left-hand side (LHS) to their cart (see chart below).<br>
+Association rule: An "if-then" statement representing the probability that a customer will purchase the item on the right-hand side (RHS), if they have added the items on the left-hand side (LHS) to their cart (see chart below).<br>
 
 **Findings:**<br>
 The chart below lists shopping carts with the greatest opportunity for a product recommendation. It ranks the probability that a shopper will purchase the recommended RHS product, given the LHS items in their cart. The top 10 probabilities are all over 80%, suggesting that targeting customers with these shopping carts will likely result in increased sales.<br>
