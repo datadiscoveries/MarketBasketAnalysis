@@ -16,7 +16,7 @@ The chart below lists shopping carts with the greatest opportunity for a product
 **Recommendations:<br>**
 1. Recommend the RHS product to a shopper if they have added the LHS products to their cart.<br>
 2. Consider promoting discounted bundles where each RHS product above is bundled with its' associated LHS products.    
-3. If a shopper with any of the carts above does not purchase the recommended product, consider promoting the product at a discounted price during subsequent shopping sessions or through an email campaign. 
+3. If a shopper with any of the carts above does not purchase the recommended product, consider promoting the product at a discounted price during subsequent shopping sessions, or through an email campaign. 
 <br>
 
 **Opportunities for Further Analysis:<br>**
