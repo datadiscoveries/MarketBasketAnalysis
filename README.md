@@ -10,7 +10,7 @@ The goal of this analysis is to create an effective product recommendation syste
 Association rule: An "if-then" statement representing the probability that a customer will purchase the item on the right-hand side (RHS) if they have added the items on the left-hand side (LHS) to their cart (see chart below).<br>
 
 **Findings:**<br>
-The chart below lists shopping carts with the greatest opportunity for a product recommendation. It ranks the probability that a shopper will purchase the recommended RHS product, given the LHS items in their cart. These probabilities are very high, indicating that many shoppers with the carts below are likely to purchase the recommended item.<br>
+The chart below lists shopping carts with the greatest opportunity for a product recommendation. It ranks the probability that a shopper will purchase the recommended RHS product, given the LHS items in their cart. The top 10 probabilities are all over 80%, suggesting that targeting customers with these shopping carts will likely result in increased sales.<br>
 <br>
 ![image](https://user-images.githubusercontent.com/30391113/171098428-a32f11ee-8e3f-41c1-be6a-fd9072a8fb62.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, items on the left = items added to the cart. Item on the right = recommended item.</sub>
