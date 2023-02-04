@@ -13,14 +13,13 @@ Association rule: An "if-then" statement representing the probability that a cus
 The chart below lists shopping carts with the greatest opportunity for a product recommendation. It ranks the probability that a shopper will purchase the recommended RHS product, given the LHS items in their cart. The top 10 probabilities are all over 80%, suggesting that targeting customers with these shopping carts will likely result in increased sales.<br>
 <br>
 ![image](https://user-images.githubusercontent.com/30391113/171098428-a32f11ee-8e3f-41c1-be6a-fd9072a8fb62.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, items on the left = items added to the cart. Item on the right = recommended item.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, items on the left represent cart items. Item on the right represent recommended items.</sub>
 <br>
 
 **Recommendations:<br>**
 1. For each association rule in the chart above, recommend the RHS product to the shopper if they have added the LHS products to their cart.<br>
 2. Consider promoting discounted bundles where each RHS product above is bundled with its associated LHS products.    
-3. Do not discount any RHS product above if a shopper has added the associated LHS products to their cart since they are likely to purchase it without a discount. 
-4. If a shopper's cart includes any of the LHS sets above but does not purchase the associated RHS product, consider promoting the RHS product to that customer at a discounted price. 
+3. If a shopper's cart includes any of the LHS sets above but does not purchase the associated RHS product, consider promoting the RHS product to that customer at a discounted price. 
 <br>
 
 **Opportunities for Further Analysis:<br>**
