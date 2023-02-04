@@ -20,8 +20,8 @@ The chart below lists shopping carts with the greatest opportunity for a product
 <br>
 
 **Opportunities for Further Analysis:<br>**
-1. Additional variables could be factored into the recommendation system to generate more personalized product suggestions, like products favorited, products viewed, search queries, and customer demographics.<br>
-2. As shoppers are targeted with promoted products, sales data should be monitored to assess the effectiveness of the recommendation engine. 
+1. Additional variables could be factored into the recommendation system to generate more personalized product suggestions, like products added to a "favorite" or "whish" list, products viewed, search queries, and customer demographics.<br>
+2. As shoppers are targeted with promoted products, sales data should be monitored to assess the effectiveness of the recommendation system. 
 <br>
 
 
