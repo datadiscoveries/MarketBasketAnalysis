@@ -1,9 +1,9 @@
 # Market Basket Analysis for Online Product Recommendation Engine
 
 **Question:**<br>
-Which products should be recommended to which online shoppers, based on the items that they have added to their cart?<br>
+Which products are most likely to be purchased by an online shopper, given the items in their cart?<br>
 
-**Goals, Techniques, and Value:** The main goal of this analysis is to provide insights to support the creation of an effective product recommendation system. Personalizing recommendations according to shoppers' interests can help build customer engagement, create better rapport, and increase sales. This analysis applies the Apriori algorithm to purchase history data to estimate the probability that a product will be purchased by the shopper, given the items added to their cart.
+**Goals, Techniques, and Value:**The goal of this analysis is to create an effective product recommendation system and recommend strategies to boost sales, based on insights gleaned from the analysis. Personalizing recommendations according to shoppers' interests can help build customer engagement, create better rapport, and increase sales. This analysis, the Apriori algorithm is applied to historic purchase data to estimate the probability that a product will be purchased by a shopper, given the items in their cart.
 
 **Terms:**<br>
 Association rule - An "if-then" statement representing the probability that a customer will purchase the item on the right-hand side (RHS) if they have added the items on the left-hand side (LHS) to their cart (see chart below).<br>
