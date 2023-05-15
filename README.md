@@ -13,7 +13,7 @@ The chart below lists shopping carts with the greatest opportunity for product r
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, items on the left represent cart items. Item on the right represent recommended items.</sub>
 <br>
 
-**Recommendations:<br>**
+**Applications:<br>**
 1. Promote or recommend the RHS product to a shopper if they have added the LHS products to their cart.<br>
 2. Consider promoting discounted bundles, where each RHS product above is bundled with corresponding LHS products.    
 3. If a shopper with any of the carts above does not purchase the recommended product, consider promoting it to them later through an email campaign or repeat shopping sessions. 
