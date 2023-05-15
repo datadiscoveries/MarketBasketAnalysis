@@ -19,7 +19,7 @@ The chart below lists shopping carts with the greatest opportunity for product r
 3. If a shopper with any of the carts above does not purchase the recommended product, consider promoting it to them later through an email campaign or repeat shopping sessions. 
 <br>
 
-**Opportunities for Further Analysis:<br>**
+**Opportunities for Additional Analysis:<br>**
 1. Compile additional data that allows for additional and more personalized product recommendations using clustering and customer profiling techniques. Other valuable features may include customer ID, additional product interactions (viewed, wishlisted, and favorited), customer demographics, additional purchase details (frequency, amounts, and recency), site behavior (time spent on certain pages, clickstream data, search queries, and navigation patterns), social media activity, customer feedback and reviews, personal preferences and interests listed in the store, and contextual factors (the time of year, seasonal trends, cultural events, and geographical factors)<br>
 2. Sales trends should be monitored and compared with differening recommendation models and strategies to find a combination that returns optimal customer engagement, customer loyalty, and sales.
 <br>
