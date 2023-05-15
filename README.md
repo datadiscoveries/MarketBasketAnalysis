@@ -20,8 +20,8 @@ The chart below lists shopping carts with the greatest opportunity for product r
 <br>
 
 **Opportunities for Further Analysis:<br>**
-1. Additional variables could be factored into the recommendation system to generate more personalized product suggestions, like products added to a "favorite" or "whish" list, products viewed, search queries, and customer demographics.<br>
-2. As shoppers are targeted with promoted products, sales data should be monitored to assess the effectiveness of the recommendation system. 
+1. Compile additional data that allows for additional and more personalized product recommendations using clustering and customer profiling techniques. Other valuable features may include customer ID, additional product interactions (viewed, wishlisted, and favorited), customer demographics, additional purchase details (frequency, amounts, and recency), site behavior (time spent on certain pages, clickstream data, search queries, and navigation patterns), social media activity, customer feedback and reviews, personal preferences and interests listed in the store, and contextual factors (the time of year, seasonal trends, cultural events, and geographical factors)<br>
+2. Sales trends should be monitored and compared with differening recommendation models and strategies to find a combination that returns optimal customer engagement, customer loyalty, and sales.
 <br>
 
 
