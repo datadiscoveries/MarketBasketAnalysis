@@ -11,7 +11,7 @@ The products below, on the right-hand side of the Y-axis, have the highest proba
 <br>
 
 **Recommended Action:<br>**
-1. These products should be recommended to shoppers with these carts, as well as all products with a probability of purchase above a desired threshold. These highly relevant recommendations are likely to help improve the customer experience, heighten consumer trust, improve company reputation and branding, increase repeat purchases, strengthen the business' long-term sustainability, and generate sales that would have otherwise been lost.<br>
+1. Recommended the above products (right-hand side) to shoppers with associated shopping carts (left-hand side), as well as all products with a probability of purchase above a desired threshold. These highly relevant recommendations are likely to help improve the customer experience, heighten consumer trust, improve company reputation and branding, increase repeat purchases, strengthen the business' long-term sustainability, and generate sales that would have otherwise been lost.<br>
 2. Consider promoting discounted bundles, where each RHS product is bundled with its respective LHS products.    
 3. If a shopper with any of the carts above does not purchase the respective product recommended to them, consider promoting it to the shopper later with an email campaign or as a promoted product during future shopping sessions. 
 <br>
