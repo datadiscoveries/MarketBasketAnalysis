@@ -13,7 +13,7 @@ The products below, on the right-hand side of the Y-axis, have the highest proba
 **Recommended Action:<br>**
 1. Recommend the above products (right-hand side) to shoppers with associated shopping carts (left-hand side), as well as all products with a probability of purchase above a desired threshold. Promoting these highly relevant recommendations is likely to improve the customer experience, heighten consumer trust, improve company reputation and branding, increase repeat purchases, strengthen the business' long-term sustainability, and generate sales that would have otherwise been lost.<br>
 2. Since the above products are often purchased together, promote bundles at a discount, where each right-hand side product is bundled with its prespective left-hand-side group of products. The bundle strategy is likely to entice shoppers and boost sales while maintaining a healthy profit margin, due to increased efficiencies in shipping and operating costs.  
-3. If a shopper did not purchase their recommended product, they may not have been in a position to purchase at the time. If the shopper is subscribed to receive emails, send them a prmotion at a later time with a discounted price on the recommended product. 
+3. If a shopper did not purchase their recommended product, they may not have been in a position to purchase at the time. If the shopper is subscribed to receive emails, send them a promotion at a later time with a discounted price on the recommended product. 
 <br>
 
 **Additional Opportunities:<br>**
