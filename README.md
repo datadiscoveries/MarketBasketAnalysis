@@ -11,9 +11,9 @@ The products below, on the right-hand side of the Y-axis, have the highest proba
 <br>
 
 **Recommended Action:<br>**
-1. Recommended the above products (right-hand side) to shoppers with associated shopping carts (left-hand side), as well as all products with a probability of purchase above a desired threshold. These highly relevant recommendations are likely to help improve the customer experience, heighten consumer trust, improve company reputation and branding, increase repeat purchases, strengthen the business' long-term sustainability, and generate sales that would have otherwise been lost.<br>
-2. Consider promoting discounted bundles, where each RHS product is bundled with its respective LHS products.    
-3. If a shopper with any of the carts above does not purchase the respective product recommended to them, consider promoting it to the shopper later with an email campaign or as a promoted product during future shopping sessions. 
+1. Recommended the above products (right-hand side (RHS)) to shoppers with associated shopping carts (left-hand side (LHS)), as well as all products with a probability of purchase above a desired threshold. These highly relevant recommendations are likely to help improve the customer experience, heighten consumer trust, improve company reputation and branding, increase repeat purchases, strengthen the business' long-term sustainability, and generate sales that would have otherwise been lost.<br>
+2. Since the above products are often purchased together, promote bundles at a discount, where each RHS recommended product is bundled with its respective LHS products. The bundle strategy is likely to entice more shoppers and boost sales while maintaining a healthy profit margin, due to increased efficiencies shipping and operating costs.  
+3. If a shopper did not purchase their recommended product, they may not have been in a position to purchase at the time. If the shopper is subscribed to receive emails, send them a prmotion at a later time with a discounted price on the recommended product. 
 <br>
 
 **Additional Opportunities:<br>**
