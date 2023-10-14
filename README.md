@@ -1,7 +1,7 @@
 # Market Basket Analysis - Product Recommendation System for Digital Store
 
 **Goal:**<br>
-The goal of this analysis is to determine which products are most likely to be purchased by an online shopper, given items already added to their cart.<br>
+The goal of this analysis is to determine which products should be recommended to online shoppers, given the items that they have already added to their cart.<br>
 
 **Analysis:**<br>
 In creating a product recommendation system, the Apriori algorithm is applied to historic purchase data to estimate the probability that a product will be purchased by a shopper based on items already in their cart. Strategic recommendations are then made to boost sales based on insights gained from the analysis. Creating customized and personalized recommendations based on a shopper's interests and profile leads to enhanced customer engagement on the store, increased revenue, and increased shopper satisfaction and loyalty.  
