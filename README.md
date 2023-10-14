@@ -17,7 +17,7 @@ The products below, on the right-hand side of the Y-axis, have the highest proba
 <br>
 
 **Additional Opportunities:<br>**
-1. Compile additional data that allows for additional and more personalized product recommendations using clustering and customer profiling techniques. Other valuable features may include customer ID, additional product interactions (viewed, wishlisted, and favorited), customer demographics, additional purchase details (frequency, amounts, and recency), site behavior (time spent on certain pages, clickstream data, search queries, and navigation patterns), social media activity, customer feedback and reviews, personal preferences and interests listed in the store, and contextual factors (time of year, seasonal trends, cultural events, and geographic factors)<br>
+1. Collect additional data that would allow for the development of a recommendation engine that is highly tailered to the shopper's interests using statistical analysis, cluster analysis, and machine learning techniques. Valuable data includes customer ID, product interactions (viewed, wishlisted, and favorited), customer demographics, product purchase details (frequency, amounts, and recency), site behavior (search keyword queries, time spent on certain product pages, clickstream data, and navigation patterns), customer ratings and reviews on purchased products, and contextual data (time of year, seasonal trends, cultural events, and geographic factors)<br>
 2. Sales trends should be monitored and compared with differening recommendation models and strategies to find a combination that returns optimal customer engagement, customer loyalty, and sales.
 <br>
 
