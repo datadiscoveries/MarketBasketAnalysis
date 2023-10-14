@@ -7,7 +7,7 @@ The goal of this analysis is to determine which products should be recommended t
 The products below, on the right-hand side of the Y-axis, have the highest probability of purchase, given that the shopper has added the products on the left-hand side of the Y-axis to their cart.<br>
 <br>
 ![image](https://user-images.githubusercontent.com/30391113/171098428-a32f11ee-8e3f-41c1-be6a-fd9072a8fb62.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, the products on the left-hand-side represent the shopper's cart. The product on the right-hand-side represents the product that should be recommended to the shopper.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>*On the y-axis, the products on the left-hand-side represent the shopper's cart. The product on the right-hand-side represents the product that should be recommended to the shopper.</sub>
 <br>
 
 **Recommended Action:<br>**
