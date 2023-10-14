@@ -16,9 +16,5 @@ The products below, on the right-hand side of the Y-axis, have the highest proba
 3. If a shopper did not purchase their recommended product, they may not have been in a position to purchase at the time. If the shopper is subscribed to receive emails, send them a promotion at a later time with a discounted price on the recommended product. 
 <br>
 
-**Additional Opportunities:<br>**
-1. Collect additional data that would allow for the development of a recommendation engine that is highly tailered to the shopper's interests using statistical analysis, cluster analysis, and machine learning techniques. Valuable data includes customer ID, product interactions (viewed, wishlisted, and favorited), customer demographics, product purchase details (frequency, amounts, and recency), site behavior (search keyword queries, time spent on certain product pages, clickstream data, and navigation patterns), customer ratings and reviews on purchased products, and contextual data (time of year, seasonal trends, cultural events, and geographic factors)<br>
-2. Sales trends should be monitored and compared with differening recommendation models and strategies to find a combination that returns optimal customer engagement, customer loyalty, and sales.
-<br>
 
 
