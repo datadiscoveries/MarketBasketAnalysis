@@ -1,10 +1,7 @@
 # Market Basket Analysis - Product Recommendation System for Digital Store
 
 **Goal:**<br>
-The goal of this analysis is to determine which products should be recommended to online shoppers, given the items that they have already added to their cart.<br>
-
-**Analysis:**<br>
-In creating a product recommendation system, the Apriori algorithm is applied to historic purchase data to estimate the probability that a product will be purchased by a shopper based on items already in their cart. Strategic recommendations are then made to boost sales based on insights gained from the analysis. Creating customized and personalized recommendations based on a shopper's interests and profile leads to enhanced customer engagement on the store, increased revenue, and increased shopper satisfaction and loyalty.  
+The goal of this analysis is to help an e-commerce business determine which products should be recommended to online shoppers, given the items that they have already added to their cart. This will be achieved by analyzing historic customer purchasing behavior and predict the probability that a certain recommended product would be purchased by a shopper, using the Apriori algorithm. Potential applications of the results will be recommended to boost sales and increase customer satisfaction and loyalty.<br>
 
 **Findings:**<br>
 The chart below lists shopping carts with the greatest opportunity for product recommendation or promotion. It ranks the probability that a shopper will purchase the recommended product on the right-hand side (RHS), given that the left-hand side (LHS) items are in their cart. Products resulting from the algorithm with the highest 10 probabilities are all over 80%, showing that customers with these carts are very likely to have a strong interest in the recommended product. In understanding which products shoppers are most likely purchase, they will feel better understood, leading to a positive customer experience, increased loyalty, and additional sales that otherwise may have been lost without recommendation or promotion.<br>
